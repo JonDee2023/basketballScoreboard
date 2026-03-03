@@ -1,6 +1,6 @@
 let heading = "Match Score Board"
 let team1 = "HOME"
-let team2 = "GUEST"
+let team2 = "AWAY"
 let team1score = 0
 let team2score = 0
 
